@@ -33,7 +33,7 @@ Desafio técnico para a vaga de trainee na Stant. O projeto consiste em uma API 
 - Agora com o Insomnia acesse a url `localhost:3000/api/v1/palestras`
   - GET `api/v1/palestras`
   - POST `api/v1/palestras`
-    - chaves = nome (string) e duracao (integer)
+    - chaves = `nome (string) e duracao (integer)`
 
 ---
 
